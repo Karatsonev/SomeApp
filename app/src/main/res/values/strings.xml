@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SomeApp</string>
+    <string name="add_user">register</string>
+    <string name="delete_user">unregister</string>
+    <string name="users_number">Users count: %1$d</string>
+    <string name="email">Email...</string>
+    <string name="result">Result</string>
+    <string name="password">Password...</string>
+    <string name="getUserInfo">user information</string>
+    <string name="test">Test</string>
+    <string name="turnon">turn on</string>
+    <string name="turnoff">turn off</string>
+    <string name="hundretPercent">100%</string>
+    <string name="fifthyPercent">50%</string>
+    <string name="noUsers">No Users!</string>
+    <string name="lastUser">Last User:</string>
+</resources>
